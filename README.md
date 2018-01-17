@@ -27,3 +27,4 @@ sudo dmidecode  | grep -i OpenStack
 * http://www.cnblogs.com/sammyliu/p/4622563.html
 * http://www.cnblogs.com/sammyliu/p/4622563.html
 × http://blog.51cto.com/virtualelvis/910098
+* https://dingtongqin.github.io/technology/openvswitch/
