@@ -7,9 +7,14 @@
 
 ## Open vSwitch
 ### 历史脉络
-* https://thenewstack.io/vmware-hands-oversight-open-vswitch-linux-foundation/
+
 * 源自斯坦福的校园网络管理，创建了Nicira公司和Open vSwtich项目，然后，被VMWare收购，后来又将Open vSwitch转交给Linux Foundation来负责维护。
+### Open vSwitch 参考资料
+* http://blog.51cto.com/virtualelvis/910098
+* (历史脉络) https://thenewstack.io/vmware-hands-oversight-open-vswitch-linux-foundation/
+
 ## Linux Bridge
+
 
 
 ## RPC
