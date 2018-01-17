@@ -12,6 +12,7 @@
 ### Open vSwitch 参考资料
 * http://blog.51cto.com/virtualelvis/910098
 * (历史脉络) https://thenewstack.io/vmware-hands-oversight-open-vswitch-linux-foundation/
+* (Why Open vSwich) http://blog.51cto.com/virtualelvis/910098
 
 ## Linux Bridge
 
