@@ -26,3 +26,4 @@ sudo dmidecode  | grep -i OpenStack
 * https://goyalankit.com/blog/linux-bridge
 * http://www.cnblogs.com/sammyliu/p/4622563.html
 * http://www.cnblogs.com/sammyliu/p/4622563.html
+× http://blog.51cto.com/virtualelvis/910098
