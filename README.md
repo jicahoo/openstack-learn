@@ -16,6 +16,8 @@
 ## Linux Bridge vs Open vSwtich
 * https://kumul.us/switches-ovs-vs-linux-bridge-simplicity-rules/ 在这篇文章中，作者认为，Linux Bridge的简单性胜过Open vSwitch的复杂性。
 
+## 网络基础知识
+* NAT: https://wizardforcel.gitbooks.io/network-basic/content/18.html 问题不在于你的理解力不足，而在于你搜索能力和整理能力，第一步是搜索到好的资料，下一步就好办了, 你可能要花很大时间放在找到好资料上，而不是浪费在一些乱七八糟的资料上。
 
 
 ## RPC
