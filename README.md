@@ -13,7 +13,8 @@
 * http://blog.51cto.com/virtualelvis/910098
 * (历史脉络) https://thenewstack.io/vmware-hands-oversight-open-vswitch-linux-foundation/
 * https://dingtongqin.github.io/technology/openvswitch/
-## Linux Bridge
+## Linux Bridge vs Open vSwtich
+* https://kumul.us/switches-ovs-vs-linux-bridge-simplicity-rules/ 在这篇文章中，作者认为，Linux Bridge的简单性胜过Open vSwitch的复杂性。
 
 
 
