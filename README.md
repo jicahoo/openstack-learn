@@ -8,7 +8,7 @@
 ## Open vSwitch
 ### 历史脉络
 
-* 源自斯坦福的校园网络管理，创建了Nicira公司和Open vSwtich项目，然后，被VMWare收购，后来又将Open vSwitch转交给Linux Foundation来负责维护。
+* 源自斯坦福的校园网络管理，创建了Nicira公司和Open vSwtich项目，然后，被VMWare收购，后来又将Open vSwitch转交给Linux Foundation来负责维护。VMWare在Open vSwtich的基础上，研发了对应的网络虚拟化商业软件：NSX.
 ### Open vSwitch 参考资料
 * http://blog.51cto.com/virtualelvis/910098
 * (历史脉络) https://thenewstack.io/vmware-hands-oversight-open-vswitch-linux-foundation/
