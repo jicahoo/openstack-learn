@@ -1,5 +1,9 @@
 # openstack-learn
 
+# 存储
+## Openstack与Ceph
+* Openstack + Ceph是很多案例，是一种验证过的云计算方案。
+* http://www.cnblogs.com/sammyliu/p/4908668.html
 
 # 网络虚拟化
 ## Why
