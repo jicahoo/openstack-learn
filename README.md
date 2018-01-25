@@ -33,6 +33,7 @@
 ## 超融合
 
 ### Nutanix
+* Nutanix的核心是NDFS，一个分布式文件系统，开发者开发过GFS.
 * https://www.nutanix.com/press-releases/2012/06/12/nutanix-liberates-nfs-from-the-network-reincarnating-it-as-ndfs/
 * http://nutanixbible.com/
 * http://www.joshodgers.com/tag/nutanix-distributed-file-system/
