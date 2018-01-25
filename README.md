@@ -44,6 +44,8 @@
   * 什么是超融合？1. Natively，converage compute and storage; 2. 不使用专有硬件，使用普通的商用机器。使用软件定义，在这些普通硬件上，构建出企业级产品。专有硬件，就是硬件定义。
   * NDFS与Ceph不同，通过分布式元数据服务来精准控制数据块在系统中的分配位置，以求达到最优的 I/O 性能和稳定性.
 * http://www.joshodgers.com/tag/nutanix-distributed-file-system/
+* http://www.joshodgers.com/2014/09/26/part-2-problems-with-raid-and-object-based-storage-for-data-protection/
+  * NDFS可以更细粒度地恢复数据，基于对象存储的HCI粒度太大，所以性能不好。
 * https://www.slideshare.net/Murugesh/nutanix-36050380
 * https://www.openstack.org/assets/presentation-media/NutanixOpenStackfortheEnterprise.pptx
 
