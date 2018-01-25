@@ -4,6 +4,9 @@
 ## Openstack与Ceph
 * Openstack + Ceph是很多案例，是一种验证过的云计算方案。
 * http://www.cnblogs.com/sammyliu/p/4908668.html
+  ![screenshot](https://images2015.cnblogs.com/blog/697113/201510/697113-20151025134314958-2128429369.jpg
+ "Logo Title Text 1")
+
 
 # 网络虚拟化
 ## Why
