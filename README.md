@@ -35,6 +35,7 @@
 ### Nutanix
 * Nutanix的核心是NDFS，一个分布式文件系统，CTO领导开发过GFS。所以, NDFS基于GFS的思想专门为虚拟化环境做了设计和优化。
 * 基本思想是去掉SAN, 让计算不通过网络(SA)访问存储，以提高性能; NDFS将数据的副本放在不同的节点上，既提供了冗余，又提高了性能（当发生虚拟机迁移，它迁移到的节点上，可能会有数据的副本。）类似，GFS+MapReduce的思想，移动计算逻辑，使其更靠近数据存储位置，提高运算速度。
+* 缺点可能是基于副本的存储方式，浪费比较多的空间。
 * https://www.virtualtothecore.com/en/nutanix-an-overview-eng/
 * https://www.nutanix.com/2014/01/16/chasing-datacenter-efficiency/
 * https://www.nutanix.com/press-releases/2012/06/12/nutanix-liberates-nfs-from-the-network-reincarnating-it-as-ndfs/
