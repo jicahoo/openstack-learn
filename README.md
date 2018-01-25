@@ -40,6 +40,7 @@
 * https://www.nutanix.com/2014/01/16/chasing-datacenter-efficiency/
 * https://www.nutanix.com/press-releases/2012/06/12/nutanix-liberates-nfs-from-the-network-reincarnating-it-as-ndfs/
 * http://nutanixbible.com/
+  * 用户空间通过一些开发包和驱动程序直接读写存储设备，比通过内核读写，省去了：昂贵的系统调用和中断处理机制，数据复制，上下文切换。发展方向是读写数据的逻辑由内核空间到用户空间发展。基于这个思想，Intel提供了相应的开发包：torage Performance Development Kit (SPDK).
 * http://www.joshodgers.com/tag/nutanix-distributed-file-system/
 * https://www.slideshare.net/Murugesh/nutanix-36050380
 * https://www.openstack.org/assets/presentation-media/NutanixOpenStackfortheEnterprise.pptx
