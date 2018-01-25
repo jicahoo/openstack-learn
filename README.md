@@ -41,6 +41,7 @@
 * https://www.nutanix.com/press-releases/2012/06/12/nutanix-liberates-nfs-from-the-network-reincarnating-it-as-ndfs/
 * http://nutanixbible.com/
   * 用户空间通过一些开发包和驱动程序直接读写存储设备，比通过内核读写，省去了：昂贵的系统调用和中断处理机制，数据复制，上下文切换。发展方向是读写数据的逻辑由内核空间到用户空间发展。基于这个思想，Intel提供了相应的开发包：torage Performance Development Kit (SPDK).
+  * 什么是超融合？1. Natively，converage compute and storage; 2. 不使用专有硬件，使用普通的商用机器。使用软件定义，在这些普通硬件上，构建出企业级产品。专有硬件，就是硬件定义。
 * http://www.joshodgers.com/tag/nutanix-distributed-file-system/
 * https://www.slideshare.net/Murugesh/nutanix-36050380
 * https://www.openstack.org/assets/presentation-media/NutanixOpenStackfortheEnterprise.pptx
