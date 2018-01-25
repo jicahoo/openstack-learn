@@ -33,7 +33,9 @@
 ## 超融合
 
 ### Nutanix
-* Nutanix的核心是NDFS，一个分布式文件系统，开发者开发过GFS.
+* Nutanix的核心是NDFS，一个分布式文件系统，CTO领导开发过GFS。所以, NDFS基于GFS的思想专门为虚拟化环境做了设计和优化。
+* https://www.virtualtothecore.com/en/nutanix-an-overview-eng/
+* https://www.nutanix.com/2014/01/16/chasing-datacenter-efficiency/
 * https://www.nutanix.com/press-releases/2012/06/12/nutanix-liberates-nfs-from-the-network-reincarnating-it-as-ndfs/
 * http://nutanixbible.com/
 * http://www.joshodgers.com/tag/nutanix-distributed-file-system/
