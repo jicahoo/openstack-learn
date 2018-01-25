@@ -30,6 +30,14 @@
 ## RPC
 * https://docs.openstack.org/nova/pike/reference/rpc.html
 
+## 超融合
+
+### Nutanix
+* https://www.nutanix.com/press-releases/2012/06/12/nutanix-liberates-nfs-from-the-network-reincarnating-it-as-ndfs/
+* http://nutanixbible.com/
+* http://www.joshodgers.com/tag/nutanix-distributed-file-system/
+* https://www.slideshare.net/Murugesh/nutanix-36050380
+* https://www.openstack.org/assets/presentation-media/NutanixOpenStackfortheEnterprise.pptx
 
 ## Some tips
 * How to know if the linux you are using is a VM in openstack. 
