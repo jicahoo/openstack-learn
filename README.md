@@ -54,6 +54,8 @@
   * Nutanix集群的节点间通讯（包括存储，服务）采用Google的Protocol Buffers以提升分布式系统的通讯效率和性能
   * 也考虑到了3DXPoint的技术。
   * MapReduce: 弹性重复数据删除引擎不仅适用于容量磁盘层 (HDD)，而且适用于性能层（SSD/内存）。在确定重复数据后，依据相同指纹的多个副本，后台进程将使用 DSF MapReduce 框架（管理者）移除重复数据。
+  * 有磁盘平衡技术，
+  * 没有专有网络。都是走的10Geth.
 ## Some tips
 * How to know if the linux you are using is a VM in openstack. 
 ```shell
